@@ -12,6 +12,8 @@ contacting the corresponding frequencies (see table below).
 Table 1.1 show you the frequencies (400HZ-4000Hz) for each character. 
 You may assume duration of each character signal is no more than 40ms.
 
+![Capture](https://user-images.githubusercontent.com/65376456/89062467-2b545880-d36f-11ea-9c7c-16da87541649.PNG)
+
       Table 1.1: Encoding frequencies for each English character
 Character   Low frequency          Middle frequency        High frequency  
 a           400                      1000                   2000
