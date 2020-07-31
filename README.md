@@ -12,37 +12,10 @@ contacting the corresponding frequencies (see table below).
 Table 1.1 show you the frequencies (400HZ-4000Hz) for each character. 
 You may assume duration of each character signal is no more than 40ms.
 
-![Capture](https://user-images.githubusercontent.com/65376456/89062467-2b545880-d36f-11ea-9c7c-16da87541649.PNG)
 
       Table 1.1: Encoding frequencies for each English character
-Character   Low frequency          Middle frequency        High frequency  
-a           400                      1000                   2000
-b           400                      1000                   3000
-c           400                      1000                   4000
-d           400                      1200                   2000 
-e           400                      1200                   3000
-f           400                      1200                   4000 
-g           400                      1500                   2000
-h           400                      1500                   3000 
-i           400                      1500                   4000
-j           600                      1000                   2000
-k           600                      1000                   3000
-l           600                      1000                   4000 
-m           600                      1200                   2000
-n           600                      1200                   3000 
-o           600                      1200                   4000
-p           600                      1500                   2000 
-q           600                      1500                   3000
-r           600                      1500                   4000 
-s           800                      1000                   2000
-t           800                      1000                   3000 
-u           800                      1000                   4000
-v           800                      1200                   2000 
-w           800                      1200                   3000
-x           800                      1200                   4000 
-y           800                      1500                   2000
-z           800                      1500                   3000 
-space       800                      1500                   4000
+      
+      ![Capture](https://user-images.githubusercontent.com/65376456/89062467-2b545880-d36f-11ea-9c7c-16da87541649.PNG)
 
 
 To sum up, in this phase you have to design the following:
